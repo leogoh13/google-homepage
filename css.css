@@ -1,0 +1,25 @@
+.gpic {
+	margin:; 0 auto;
+	padding-top: 100px;
+}
+
+.navbar {
+	text-align: right;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	display: inline;
+	margin-left: 40px;
+	text-decoration: underline;
+
+}
+
+input {
+	width: 500px;
+	height: 25px;
+}
